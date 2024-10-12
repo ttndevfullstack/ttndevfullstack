@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **AWS Cloud, Microservices, Redis,...**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nghiakydiem](https://github.com/nghiakydiem)
+- 👨‍💻 All of my projects are available at [https://github.com/ttndevfullstack](https://github.com/ttndevfullstack)
 
-- 💬 Ask me about **MERN Stack and more**
+- 💬 Ask me about **LAMP, MERN Stack and more**
 
-- 📫 How to reach me **nghiakydiem@gmail.com**
+- 📫 How to reach me **nghiatt1410@gmail.com**
 
 - ⚡ Fun fact **Focus on work and sports every day**
 
