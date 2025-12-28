@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **LAMP, MERN Stack and more**
 
-- 📫 How to reach me **nghiatt1410@gmail.com**
+- 📫 How to reach me **ttn.dev.fullstack@gmail.com**
 
 - ⚡ Fun fact **Focus on work and sports every day**
 
