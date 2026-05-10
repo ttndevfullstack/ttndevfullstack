@@ -12,7 +12,7 @@
   <a href="https://github.com/ttncode">
     <img src="https://img.shields.io/badge/GitHub-ttncode-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://ttndeveloper.com">
+  <a href="https://ttndeveloper.vercel.app/">
     <img src="https://img.shields.io/badge/Website-ttndev.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
 </p>
