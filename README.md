@@ -114,15 +114,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ttncode&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttncode&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## Connect
 
 - 🌐 Website: [ttncode.com](https://ttndeveloper.vercel.app/)
