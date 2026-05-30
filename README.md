@@ -1,9 +1,10 @@
-<h1 align="left">Hi, I'm Truong Trung Nghia 👋</h1>
+# Hi, I'm Truong Trung Nghia 👋
 
-<p align="left">
-  <strong>Full Stack Developer</strong> from Ho Chi Minh City, Vietnam 🇻🇳<br/>
-  I build backend-heavy web applications, scalable APIs, admin dashboards, and business systems with PHP, Laravel, CodeIgniter, React, and cloud services.
-</p>
+🚀 **Software Engineer 🇻🇳** | 🤖 **Building AI-Powered Web & Mobile Apps**
+
+> Building scalable systems that solve real business problems.
+
+I build scalable digital products, from web and mobile applications to business systems and AI-powered solutions, helping transform ideas into reliable, user-focused software that delivers measurable value and supports long-term growth.
 
 <p align="left">
   <a href="mailto:nghiatt1410@gmail.com">
@@ -21,30 +22,19 @@
 
 ## About Me
 
-- 💻 **Full Stack Developer** with experience building and maintaining web applications.
-- 🧩 Experienced in **PHP, Laravel, CodeIgniter, React, REST APIs, database design, and system integration**.
+- 💻 **Software Engineer** with experience building and maintaining web applications.
 - 🏗️ Worked on systems across **e-commerce, fintech, IoT, SaaS, booking, ERP, and internal admin platforms**.
 - 🔐 Interested in **clean architecture, backend performance, authentication, RBAC, API security, and maintainable codebases**.
-- 🚀 Currently exploring **Laravel internals, AI-assisted development workflows, cloud services, and scalable backend design**.
+- 🚀 Currently exploring **AI-assisted development workflows, cloud services, and scalable backend design**.
 
 ---
 
-## Current Focus
-
-- Building reliable backend systems with **Laravel, CodeIgniter, PHP, MySQL, PostgreSQL, Redis, and AWS**.
-- Designing APIs and business logic for **multi-tenant platforms, financial workflows, payment integrations, and admin dashboards**.
-- Improving engineering productivity with **Docker, GitHub Actions, CI/CD, testing, and AI coding tools**.
-- Learning deeper framework internals by rebuilding simplified versions of tools like **Laravel** from scratch.
-
----
-
-## Selected Public Projects
+## Current Projects
 
 - 🔎 **[proofly-plagiarism-checker-embedding](https://github.com/ttncode/proofly-plagiarism-checker-embedding)** — Plagiarism checker using embeddings and similarity search.
 - 🧠 **[gitlab-issues-analyzer](https://github.com/ttncode/gitlab-issues-analyzer)** — Python tool for analyzing GitLab issues and project data.
 - 🛒 **[react-nest-inex-clothing](https://github.com/ttncode/react-nest-inex-clothing)** — Full-stack e-commerce practice project using React/NestJS concepts.
 - 🎵 **[streamify-music-box-player](https://github.com/ttncode/streamify-music-box-player)** — Music player application built with PHP.
-- 💳 **[laravel-order-payment-microservice](https://github.com/ttncode/laravel-order-payment-microservice)** — Laravel-based order/payment microservice practice.
 - 🧪 **[laravel-auth-strategy](https://github.com/ttncode/laravel-auth-strategy)** — Authentication strategy examples in Laravel.
 
 ---
@@ -105,24 +95,32 @@
 
 ---
 
-## Professional Experience Highlights
+## 🌱 What I'm Doing
 
-- Designed and maintained **backend services for e-commerce, tax-donation, booking, ERP, and IoT-based platforms**.
-- Built **REST APIs, payment integrations, authentication flows, RBAC, background jobs, dashboards, and data processing workflows**.
-- Worked with **multi-tenant systems**, where permission boundaries, data isolation, and secure admin operations are critical.
-- Improved application reliability through **testing, query optimization, queue/background processing, Docker-based environments, and CI/CD automation**.
+* **Building software** — Creating scalable web, mobile, and business applications
+* **Exploring AI** — Applying AI to improve products, workflows, and developer productivity
+* **Learning** — System design, software architecture, and backend engineering
+* **Sharing** — Technical insights, side projects, and lessons learned
 
 ---
 
-## Connect
+## ⚡ Professional Values
 
-- 🌐 Website: [ttncode.com](https://ttndeveloper.vercel.app/)
+* **Discipline** — Delivering consistently, not occasionally
+* **Accountability** — Taking ownership from idea to production
+* **Excellence** — Pursuing quality without losing momentum
+* **Continuous Learning** — Staying curious and improving every day
+
+---
+
+## 📫 Connect
+
 - 💼 LinkedIn: [Truong Trung Nghia](https://www.linkedin.com/in/truong-trung-nghia-21b488299/)
 - 📧 Email: [nghiatt1410@gmail.com](mailto:nghiatt1410@gmail.com)
-- 🧑‍💻 GitHub: [ttncode](https://github.com/ttncode)
+- 🌐 Website: [ttncode.com](https://ttndeveloper.vercel.app/)
 
 ---
 
 <p align="left">
-  <sub>⚡ Build practical systems. Keep learning. Ship with care.</sub>
+  <sub>⚡ <em>Ship fast. Learn faster.</em></sub>
 </p>
