@@ -31,11 +31,11 @@ I build scalable digital products, from web and mobile applications to business 
 
 ## Current Projects
 
-- 🔎 **[proofly-plagiarism-checker-embedding](https://github.com/ttncode/proofly-plagiarism-checker-embedding)** — Plagiarism checker using embeddings and similarity search.
-- 🧠 **[gitlab-issues-analyzer](https://github.com/ttncode/gitlab-issues-analyzer)** — Python tool for analyzing GitLab issues and project data.
-- 🛒 **[react-nest-inex-clothing](https://github.com/ttncode/react-nest-inex-clothing)** — Full-stack e-commerce practice project using React/NestJS concepts.
-- 🎵 **[streamify-music-box-player](https://github.com/ttncode/streamify-music-box-player)** — Music player application built with PHP.
-- 🧪 **[laravel-auth-strategy](https://github.com/ttncode/laravel-auth-strategy)** — Authentication strategy examples in Laravel.
+- 🚀 **[unioss-plugins](https://github.com/ttncode/unioss-plugins)** — Gated AI pipeline for GitLab ticket workflows.
+- 🧠 **[gitlab-issues-analyzer](https://github.com/ttncode/gitlab-issues-analyzer)** — AI-powered GitLab issue analyzer.
+- 🛒 **[in.ex-shop](https://github.com/ttncode/in.ex-shop)** — Full-stack clothing store built with Next.js and NestJS.
+- 🎵 **[music-assistant](https://github.com/ttncode/music-assistant)** — Self-hosted music manager with YouTube and SoundCloud sync.
+- 🔐 **[laravel-auth-kit](https://github.com/ttncode/laravel-auth-kit)** — Laravel 11 authentication boilerplate.
 
 ---
 
